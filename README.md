@@ -13,11 +13,7 @@ Para adquirir um item de forma rápida e segura, recebendo-o no endereço que eu
 2. O sistema deve retornar uma lista de produtos relacionados ao termo de busca.
 3. O usuário deve conseguir visualizar as informações detalhadas do produto (descrição, preço e opções de compra).
 4. O usuário deve poder adicionar o produto ao carrinho com sucesso.
-5. O sistema deve permitir ao usuário revisar os itens no carrinho antes de finalizar a compra.
-6. O usuário deve poder escolher ou adicionar um endereço de entrega.
-7. O sistema deve permitir a escolha de um método de pagamento existente ou cadastrar um novo.
-8. A compra deve ser finalizada com a exibição de uma confirmação e do número do pedido.
-9. O sistema deve enviar um email de confirmação após a compra ser concluída.
+
 
 ## 🌐 Cenários de Testes em Gherkin
 

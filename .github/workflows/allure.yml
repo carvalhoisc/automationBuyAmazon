@@ -1,9 +1,7 @@
 name: Testes Amazon
 
 on:
-  schedule:
-    - cron: '0 17 * * *' # Executa todos os dias às 8:00 AM
-  workflow_dispatch:
+  workflow_dispatch:  # Permite a execução manual do workflow
 
 jobs:
   rodar_testes:
